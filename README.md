@@ -23,3 +23,10 @@ Paths to the files for analysis:
 Provide findings on how the specifics of the dataset you discover may affect how the model is trained.
 
 Save the notebook under a meaningful name.
+
+Train The model
+Add the output for the model training (as returned from the GPU platform) to the Jupyter notebook you've created at the EDA stage so as to put everything in one place. Then analyze the result of model training.
+
+Can computer vision help the customer in this case? 
+
+What other practical tasks might the customer solve with the model? Feel free to share your ideas on this.
